@@ -1,0 +1,26 @@
+html,
+body {
+    font-family: 'Source Sans Pro';
+    box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+    font-family: inherit;
+    box-sizing: inherit;
+}
+h1,
+h2,
+h3 {
+    font-weight:100;
+}
+p,
+a,
+li {
+    font-weight:300;
+}
+pre,
+code {
+    font-family: Menlo, Monaco, "Courier New", monospace;
+    font-weight:400;
+}
